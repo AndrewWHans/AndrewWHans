@@ -1,4 +1,4 @@
-###👋 Hi, I'm Andrew Hanson
+👋 Hi, I'm Andrew Hanson
 -   ![](https://komarev.com/ghpvc/?username=AndrewWHans&color=blue)
 - 👀 I’m interested in programming and software development,
       I am also a big fan of contributing to open source software
