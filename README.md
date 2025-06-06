@@ -13,7 +13,7 @@
       <img alt = "CSS" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img alt "R" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       <img alt = "C++" src = "https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
-      <img alt = "Swift" src = "https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" />
+      <img alt = "Flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 <p>If you think I deserve a pick-me-up, why not treat me to a cup of coffee/tea?</p>
