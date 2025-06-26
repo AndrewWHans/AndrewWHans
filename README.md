@@ -28,7 +28,7 @@ I love building scalable solutions and contributing to projects that make a real
 | [MoodBites](https://github.com/AndrewWHans/MoodBites) | Mental wellness app using Flutter + Firebase for real-time mood tracking. | Flutter, Dart, Firebase |
 | [DataFest 2025 Challenge](https://github.com/AndrewWHans/Data-Fest-2025) | Data science competition entry analyzing large-scale educational data. | Python, Pandas, Matplotlib |
 
-🏅 Top Performer @ [USCC CyberCamp](https://www.uscyberchallenge.org/cyber-camps) 2025 | 2x [DataFest](https://vweber1.wixsite.com/datafest-nd) Competitor
+**🏅 Top Performer @ [USCC CyberCamp](https://www.uscyberchallenge.org/cyber-camps) 2025 | 2x [DataFest](https://vweber1.wixsite.com/datafest-nd) Competitor**
 
 ---
 
