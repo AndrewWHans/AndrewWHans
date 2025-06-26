@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Andrew
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), with a passion for:
 - 🧠 Artificial Intelligence & Machine Learning
@@ -14,7 +17,10 @@ I love building scalable solutions and contributing to projects that make a real
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-### 💻 Languages & Tools I am learning
+### 💻 Languages & Tools used and actively learning
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,7 +52,9 @@ If you’d like to chat or collaborate, feel free to reach out!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thehanson/)
 - 📫 Email: `andrew09wh@gmail.com`
-- 💜 Support my work: [Buy Me a Coffee](https://buymeacoffee.com/awhans)
+- 💜 Support my work:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/awhans)
+
 
 ---
 
