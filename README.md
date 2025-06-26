@@ -44,7 +44,7 @@ I love building scalable solutions and contributing to projects that make a real
 
 If you’d like to chat or collaborate, feel free to reach out!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/andrewwhans/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thehanson/)
 - 📫 Email: `andrew09wh@gmail.com`
 - 💜 Support my work: [Buy Me a Coffee](https://buymeacoffee.com/awhans)
 
