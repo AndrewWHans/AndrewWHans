@@ -21,13 +21,12 @@ I love building scalable solutions and contributing to projects that make a real
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [MoodBytes](https://github.com/AndrewWHans/MoodBytes) | Mental wellness app using Flutter + Firebase for real-time mood tracking. | Flutter, Dart, Firebase |
-| [DataFest 2025 Challenge](https://github.com/AndrewWHans/DataFest2025) | Data science competition entry analyzing large-scale educational data. | Python, Pandas, Matplotlib |
+| [MoodBites](https://github.com/AndrewWHans/MoodBites) | Mental wellness app using Flutter + Firebase for real-time mood tracking. | Flutter, Dart, Firebase |
+| [DataFest 2025 Challenge](https://github.com/AndrewWHans/Data-Fest-2025) | Data science competition entry analyzing large-scale educational data. | Python, Pandas, Matplotlib |
 
 ---
 
