@@ -1,4 +1,4 @@
-👋 Hi, I'm Andrew Hanson
+#👋 About me
 -   ![](https://komarev.com/ghpvc/?username=AndrewWHans&color=blue)
 - I am an informatics student at IUSB (Indiana University South Bend) that is interested in all things technology. This includes things like
 > Software Engineering, Data Science, Machine Learning, and more!
