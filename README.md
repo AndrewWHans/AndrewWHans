@@ -1,30 +1,57 @@
-#👋 About me
--   ![](https://komarev.com/ghpvc/?username=AndrewWHans&color=blue)
-- I am an informatics student at IUSB (Indiana University South Bend) that is interested in all things technology. This includes things like
-> Software Engineering, Data Science, Machine Learning, and more!
-<h3>When I code, I rely on</h3>
-<p>
-      <img alt = "Python" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img alt = "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+# 👋 Hi, I'm Andrew Hans
+
+🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), with a passion for:
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔐 Cybersecurity & Cloud Computing
+- 📊 Data Science & Backend Development
+
+I love building scalable solutions and contributing to projects that make a real-world impact.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Tools I Use Most
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd54f" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
-<h2>I am currently learning a variety, including:</h2>
-<p>
-      <img alt = "JavaScript" src = "https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
-      <img alt = "HTML" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img alt = "CSS" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img alt "R" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-      <img alt = "C++" src = "https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
-      <img alt = "Flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-</p>
 
-<p>If you think I deserve a pick-me-up, why not treat me to a cup of coffee/tea?</p>
-<a href = "https://buymeacoffee.com/awhans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+---
 
-<h3>My GitHub contributions summary</h3>
+## 🚀 Featured Projects
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndrewWHans&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [MoodBytes](https://github.com/AndrewWHans/MoodBytes) | Mental wellness app using Flutter + Firebase for real-time mood tracking. | Flutter, Dart, Firebase |
+| [DataFest 2025 Challenge](https://github.com/AndrewWHans/DataFest2025) | Data science competition entry analyzing large-scale educational data. | Python, Pandas, Matplotlib |
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+---
 
-- 💞️ I’m looking to collaborate on projects including AI, open source projects, and involvement in the community.
-- 📫 To reach me, business email is: andrew09w.h@gmail.com
+## 📊 My GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndrewWHans&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Andrew’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## ☕ Let's Connect
+
+If you’d like to chat or collaborate, feel free to reach out!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrewwhans/)
+- 📫 Email: `andrew09wh@gmail.com`
+- 💜 Support my work: [Buy Me a Coffee](https://buymeacoffee.com/awhans)
+
+---
+
+## 🤝 Open to
+
+- 🔍 Internship and Co-op Opportunities (Fall 2025)
+- 👨‍💻 Collaborating on AI, Cloud, or Backend Projects
+- 🎯 Research, Open Source Contributions, and Hackathons
