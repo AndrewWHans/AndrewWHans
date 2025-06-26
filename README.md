@@ -53,7 +53,11 @@ If you’d like to chat or collaborate, feel free to reach out!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thehanson/)
 - 📫 Email: `andrew09wh@gmail.com`
-- 💜 If you think I deserve a good pick me up: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/awhans)
+
+---
+
+### If you think I deserve a good pick me up
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/awhans)
 
 
 ---
