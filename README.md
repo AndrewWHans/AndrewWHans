@@ -59,7 +59,8 @@ I love building scalable solutions and contributing to projects that make a real
 
 ## 📊 My GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWHans&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWHans&layout=compact)
 
 ## ☕ Let's Connect!
 
