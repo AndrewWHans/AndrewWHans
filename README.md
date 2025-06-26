@@ -60,9 +60,7 @@ I love building scalable solutions and contributing to projects that make a real
 ## 📊 My GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndrewWHans&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWHans)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
