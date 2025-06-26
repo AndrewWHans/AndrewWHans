@@ -1,6 +1,7 @@
 👋 Hi, I'm Andrew Hanson
 -   ![](https://komarev.com/ghpvc/?username=AndrewWHans&color=blue)
-- 👀 I’m interested in programming and software development.
+- I am an informatics student at IUSB (Indiana University South Bend) that is interested in all things technology. This includes things like
+> Software Engineering, Data Science, Machine Learning, and more!
 <h3>When I code, I rely on</h3>
 <p>
       <img alt = "Python" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
