@@ -3,7 +3,8 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), with a passion for:
+🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), with a passion for software development.
+I love learning new tools and have an interest in:
 - 🧠 Artificial Intelligence & Machine Learning
 - 🔐 Cybersecurity & Cloud Computing
 - 📊 Data Science & Backend Development
