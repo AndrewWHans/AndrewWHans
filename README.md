@@ -65,8 +65,7 @@ I love building scalable solutions and contributing to projects that make a real
 
 ## Total Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndrewWHans&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndrewWHans&theme=meta-light&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ## ☕ Let's Connect!
