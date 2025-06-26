@@ -20,7 +20,6 @@ I love building scalable solutions and contributing to projects that make a real
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
