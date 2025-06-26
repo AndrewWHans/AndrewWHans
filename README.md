@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Hanson
+# 👋 Hi, I'm Andrew
 
 🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), with a passion for:
 - 🧠 Artificial Intelligence & Machine Learning
