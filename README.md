@@ -3,6 +3,9 @@
 🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), passionate about software development, artificial intelligence, and cloud computing.
 
 I love building scalable solutions and contributing to projects that make a real-world impact.
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AndrewHanson12/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/andrew09w_h)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andrewhans)
 
 ---
 
@@ -87,14 +90,8 @@ I love building scalable solutions and contributing to projects that make a real
 
 ## 🤝 Let's Connect!
 
-If you’d like to chat, collaborate, or just talk tech:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thehanson/)
-- 📫 Email: `andrew09w.h@gmail.com`
+If you’d like to chat, collaborate, or just talk tech, please reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehanson/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AndrewHanson12/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/andrew09w_h)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andrewhans)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew09w.h@gmail.com)
 
 ---
