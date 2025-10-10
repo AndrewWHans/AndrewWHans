@@ -63,13 +63,6 @@ I love building scalable solutions and contributing to projects that make a real
 
 ---
 
-**Other Tools learning (Actively Learning)**
-
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
