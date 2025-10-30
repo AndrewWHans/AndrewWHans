@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew
 
-🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), passionate about software development, artificial intelligence, and cloud computing.
+🎓 I’m an Informatics student at [Indiana University South Bend (IUSB)](https://www.iusb.edu/), passionate about software development, AI/ML, and cloud computing.
 
 I love building scalable solutions and contributing to projects that make a real-world impact.
 
