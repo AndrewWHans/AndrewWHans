@@ -8,9 +8,9 @@ When I'm not coding, I'm on the pickleball or tennis court, or dancing salsa and
 
 **A few things I'm proud of**
 
-- 🏆 Best Insight — Notre Dame ASA DataFest 2026 *(DataVision Avengers)*
-- 🔐 Top 5 — USCC CyberCamp 2025
-- 🎤 Presented research at MEHA 2026 on software engineering education and Nietzsche's nihilism *(yes, both)*
+- Best Insight at Notre Dame ASA DataFest 2026 *(DataVision Avengers)*
+- Top 5 at USCC CyberCamp 2025
+- Presented research at MEHA 2026 on software engineering education and Nietzsche's nihilism *(yes, both)*
 
 ---
 
