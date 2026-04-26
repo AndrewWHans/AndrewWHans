@@ -26,18 +26,3 @@ Python, Java, PostgreSQL, Docker, AWS, TypeScript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thehanson/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew09w.h@gmail.com)
-
-
-## ☕ Like my work?
-
-If you'd like to support what I do, feel free to:
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/awhans)
-
----
-
-## 💼 Open To
-
-- 🔍 Internship and Co-op Opportunities (Fall 2025)
-- 👨‍💻 Collaborating on AI, Cloud, or Backend Projects
-- 🎯 Research, Open Source Contributions, and Hackathons
