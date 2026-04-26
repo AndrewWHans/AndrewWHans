@@ -16,7 +16,7 @@ When I'm not coding, I'm on the pickleball or tennis court, or dancing salsa and
 
 **What I work with**
 
-Python · Node.js · PostgreSQL · Docker · AWS · TypeScript
+Python, Java, PostgreSQL, Docker, AWS, TypeScript
 
 ---
 
