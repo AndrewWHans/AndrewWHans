@@ -21,6 +21,7 @@ Python, Java, PostgreSQL, Docker, AWS, TypeScript
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans&show_icons=true&theme=transparent&hide_border=true)](https://github.com/AndrewWHans)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewWHans)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
