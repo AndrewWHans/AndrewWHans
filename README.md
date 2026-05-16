@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew 👋
 
-I'm a graduating Informatics student at IUSB building systems, data pipelines, and the occasional thing that surprises me.
+Graduated Informatics major at IUSB building systems, data pipelines, and the occasional thing that surprises me.
 
 When I'm not coding, I'm on the pickleball or tennis court, or dancing salsa and bachata somewhere.
 
